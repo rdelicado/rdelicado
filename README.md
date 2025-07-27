@@ -255,14 +255,6 @@ En 42, he aprendido que la programación no es solo sobre hacer que el código f
 - 🧪 **Testing exhaustivo** para garantizar robustez
 - 📚 **Documentación clara** que explique el "por qué", no solo el "qué"
 
-## 🎯 Objetivos 2025
-
-- [ ] 🏆 **Completar el Common Core** de 42 Málaga
-- [ ] 🌟 **Contribuir a proyectos open source**
-- [ ] 📚 **Especializarme en sistemas embebidos**
-- [ ] 🔐 **Profundizar en ciberseguridad**
-- [ ] 🌐 **Desarrollar proyecto web fullstack personal**
-
 ---
 
 <div align="center">
