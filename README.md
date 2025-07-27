@@ -57,50 +57,40 @@ Soy estudiante de **42 Málaga**, apasionado por la programación de sistemas, e
 
 ### 🎯 Common Core (42 School)
 
-| Proyecto | Descripción | Tecnologías | Estado |
-|----------|-------------|-------------|---------|
-| [🔧 **libft**](https://github.com/rdelicado/libft) | Librería personal de funciones C | C, Makefile | ✅ Completado |
-| [📄 **ft_printf**](https://github.com/rdelicado/ft_printf_) | Reimplementación de printf | C, Variadic Functions | ✅ Completado |
-| [📖 **get_next_line**](https://github.com/rdelicado/get_next_line_) | Lectura línea por línea de archivos | C, File Descriptors | ✅ Completado |
-| [🔧 **libasm**](https://github.com/rdelicado/libasm) | Funciones básicas en Assembly | Assembly x86_64, NASM | ✅ Completado |
-| [💬 **minitalk**](https://github.com/rdelicado/minitalk_) | Comunicación entre procesos | C, Signals, UNIX | ✅ Completado |
-| [🔄 **push_swap**](https://github.com/rdelicado/PushSwap) | Algoritmo de ordenamiento | C, Algoritmos, Stacks | ✅ Completado |
-| [🍽️ **philosophers**](https://github.com/rdelicado/Philosopher_) | Problema clásico de concurrencia | C, Threads, Mutex | ✅ Completado |
-| [🎮 **so_long**](https://github.com/rdelicado/so_long_) | Juego 2D con gráficos | C, MLX42, OpenGL | ✅ Completado |
-| [🐚 **minishell**](https://github.com/rdelicado/Minishell) | Intérprete de comandos tipo bash | C, Parsing, Pipes | ✅ Completado |
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [🔧 **libft**](https://github.com/rdelicado/libft) | Librería personal de funciones C | C, Makefile |
+| [📄 **ft_printf**](https://github.com/rdelicado/ft_printf_) | Reimplementación de printf | C, Variadic Functions |
+| [📖 **get_next_line**](https://github.com/rdelicado/get_next_line_) | Lectura línea por línea de archivos | C, File Descriptors |
+| [🔧 **libasm**](https://github.com/rdelicado/libasm) | Funciones básicas en Assembly | Assembly x86_64, NASM |
+| [💬 **minitalk**](https://github.com/rdelicado/minitalk_) | Comunicación entre procesos | C, Signals, UNIX |
+| [🔄 **push_swap**](https://github.com/rdelicado/PushSwap) | Algoritmo de ordenamiento | C, Algoritmos, Stacks |
+| [🍽️ **philosophers**](https://github.com/rdelicado/Philosopher_) | Problema clásico de concurrencia | C, Threads, Mutex |
+| [🎮 **so_long**](https://github.com/rdelicado/so_long_) | Juego 2D con gráficos | C, MLX42, OpenGL |
+| [🐚 **minishell**](https://github.com/rdelicado/Minishell) | Intérprete de comandos tipo bash | C, Parsing, Pipes |
+| [🌐 **ft_irc**](https://github.com/rdelicado/ft_irc) | Servidor IRC completo | C++, Sockets, Protocolos |
+| [🐳 **inception**](https://github.com/rdelicado/Inception) | Infraestructura con Docker | Docker, Nginx, WordPress |
+| [🎮 **cub3d**](https://github.com/rdelicado/Cub3d) | Motor 3D con raycasting | C, MLX42, Matemáticas 3D |
+| [🏓 **ft_transcendence**](https://github.com/rdelicado/ft_transcendence) | Aplicación web completa | Full Stack, WebSockets |
+| [🎓 **cpp modules**](https://github.com/rdelicado/CPP) | Aprendizaje de C++ (00-09) | C++98, OOP, STL, Templates |
 
-### 🚀 Outer Core (Proyectos Avanzados)
+### 🚀 Outer Core (Proyectos Especializados)
 
-| Proyecto | Descripción | Tecnologías | Estado |
-|----------|-------------|-------------|---------|
-| [🌐 **ft_irc**](https://github.com/rdelicado/ft_irc) | Servidor IRC completo | C++, Sockets, Protocolos | ✅ Completado |
-| [🐳 **inception**](https://github.com/rdelicado/Inception) | Infraestructura con Docker | Docker, Nginx, WordPress | ✅ Completado |
-| [🎮 **cub3d**](https://github.com/rdelicado/Cub3d) | Motor 3D con raycasting | C, MLX42, Matemáticas 3D | ✅ Completado |
-| [🏓 **ft_transcendence**](https://github.com/rdelicado/ft_transcendence) | Aplicación web completa | Full Stack, WebSockets | ✅ Completado |
-| [🎓 **cpp modules**](https://github.com/rdelicado/CPP) | Aprendizaje de C++ (00-09) | C++98, OOP, STL, Templates | ✅ Completado |
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [📊 **piscine_data_science**](https://github.com/rdelicado/Piscine_data_science) | Proyectos de ciencia de datos | Python, Pandas, ML |
+| [❄️ **snowcrash**](https://github.com/rdelicado/SnowCrash) | Challenges de ciberseguridad | Security, Exploitation |
+| [🕵️ **ft_malcolm**](https://github.com/rdelicado/ft_Malcolm) | Herramienta ARP spoofing | C, Network Security |
+| [🔧 **dr_quine**](https://github.com/rdelicado/dr_quine) | Programas auto-replicantes | C, Assembly, Virus Theory |
+| [🎯 **tinky_winky**](https://github.com/rdelicado/tinky_winky) | Proyecto experimental avanzado | C, System Programming |
 
-### 🔬 Otros Proyectos
+### 🔧 Otros Proyectos
 
-| Proyecto | Descripción | Tecnologías | Estado |
-|----------|-------------|-------------|---------|
-| [🤖 **trading_bot**](https://github.com/rdelicado/bot) | Bot de trading automatizado | Python, APIs, Algoritmos | ✅ Completado |
-| [📊 **piscine_data_science**](https://github.com/rdelicado/Piscine_data_science) | Proyectos de ciencia de datos | Python, Pandas, ML | ✅ Completado |
-| [🌐 **getip**](https://github.com/rdelicado/getip) | Herramienta de obtención de IP | C, Networking | ✅ Completado |
-| [❄️ **snowcrash**](https://github.com/rdelicado/SnowCrash) | Challenges de ciberseguridad | Security, Exploitation | ✅ Completado |
-| [🕵️ **ft_malcolm**](https://github.com/rdelicado/ft_Malcolm) | Herramienta ARP spoofing | C, Network Security | ✅ Completado |
-
-### 📈 Estadísticas de Progreso
-
-<div align="center">
-
-| **Categoría** | **Proyectos** | **Completados** | **Progreso** |
-|:-------------:|:-------------:|:--------------:|:------------:|
-| Common Core | 9 | 9 | ![100%](https://progress-bar.dev/100/?title=100%25&color=brightgreen) |
-| Outer Core | 5 | 5 | ![100%](https://progress-bar.dev/100/?title=100%25&color=brightgreen) |
-| Otros | 5 | 5 | ![100%](https://progress-bar.dev/100/?title=100%25&color=brightgreen) |
-| **TOTAL** | **19** | **19** | ![100%](https://progress-bar.dev/100/?title=100%25&color=brightgreen) |
-
-</div>
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [🌐 **getip**](https://github.com/rdelicado/getip) | Herramienta de obtención de IP | C, Networking |
+| [🎨 **colors_tool_linux**](https://github.com/rdelicado/colors_tool_linux) | Herramienta de colores para terminal | Shell, Linux Tools |
+| [🤖 **bot**](https://github.com/rdelicado/bot) | Bot de trading automatizado | Python, APIs, Algoritmos |
 
 ## 🎓 Proyectos Destacados en 42
 
