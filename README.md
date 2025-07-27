@@ -62,7 +62,6 @@ Soy estudiante de **42 Málaga**, apasionado por la programación de sistemas, e
 | [🔧 **libft**](https://github.com/rdelicado/libft) | Librería personal de funciones C | C, Makefile |
 | [📄 **ft_printf**](https://github.com/rdelicado/ft_printf_) | Reimplementación de printf | C, Variadic Functions |
 | [📖 **get_next_line**](https://github.com/rdelicado/get_next_line_) | Lectura línea por línea de archivos | C, File Descriptors |
-| [🔧 **libasm**](https://github.com/rdelicado/libasm) | Funciones básicas en Assembly | Assembly x86_64, NASM |
 | [💬 **minitalk**](https://github.com/rdelicado/minitalk_) | Comunicación entre procesos | C, Signals, UNIX |
 | [🔄 **push_swap**](https://github.com/rdelicado/PushSwap) | Algoritmo de ordenamiento | C, Algoritmos, Stacks |
 | [🍽️ **philosophers**](https://github.com/rdelicado/Philosopher_) | Problema clásico de concurrencia | C, Threads, Mutex |
@@ -78,6 +77,7 @@ Soy estudiante de **42 Málaga**, apasionado por la programación de sistemas, e
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
+| [🔧 **libasm**](https://github.com/rdelicado/libasm) | Funciones básicas en Assembly | Assembly x86_64, NASM |
 | [📊 **piscine_data_science**](https://github.com/rdelicado/Piscine_data_science) | Proyectos de ciencia de datos | Python, Pandas, ML |
 | [❄️ **snowcrash**](https://github.com/rdelicado/SnowCrash) | Challenges de ciberseguridad | Security, Exploitation |
 | [🕵️ **ft_malcolm**](https://github.com/rdelicado/ft_Malcolm) | Herramienta ARP spoofing | C, Network Security |
