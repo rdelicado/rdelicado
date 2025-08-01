@@ -92,6 +92,7 @@ Soy estudiante de **42 Málaga**, apasionado por la programación de sistemas, e
 | [🌐 **getip**](https://github.com/rdelicado/getip) | Herramienta de obtención de IP | C, Networking |
 | [🎨 **colors_tool_linux**](https://github.com/rdelicado/colors_tool_linux) | Herramienta de colores para terminal | Shell, Linux Tools |
 | [🤖 **bot**](https://github.com/rdelicado/bot) | Bot de trading automatizado | Python, APIs, Algoritmos |
+| [🛠️ **linux-setup-toolkit**](https://github.com/rdelicado/linux-setup-toolkit) | Toolkit de automatización para configurar entornos Linux | Bash, Shell, Linux, DevOps |
 
 ## 🎓 Proyectos Destacados en 42
 
