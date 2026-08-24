@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://karyllis.com/demos/peluqueria-barberia-marcos"><img src="https://img.shields.io/badge/Ver_demo_en_vivo-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7"></a>
+  <a href="https://karyllis.com/demos/barberia"><img src="https://img.shields.io/badge/Ver_demo_en_vivo-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7"></a>
   <a href="mailto:rdelicad@gmail.com"><img src="https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/ruben-delicado"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
@@ -30,13 +30,13 @@ Vengo de **[42 Málaga](https://42malaga.com)**, donde me formé de raíz en pro
 Web completa para una barbería, construida con Astro + Tailwind y desplegada en Netlify. Incluye **sistema de reservas propio** (multi-servicio, con panel de gestión para el dueño protegido por PIN e instalable como app en el móvil), formulario de reseñas con aprobación manual y base de datos en Supabase.
 
 <p align="center">
-  <a href="https://karyllis.com/demos/peluqueria-barberia-marcos">
+  <a href="https://karyllis.com/demos/barberia">
     <img src="https://karyllis.com/galeria/foto-1.jpg" width="640" alt="Barbería Marcos — demo de Karyllis">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://karyllis.com/demos/peluqueria-barberia-marcos"><b>👉 Ver la demo en vivo</b></a>
+  <a href="https://karyllis.com/demos/barberia"><b>👉 Ver la demo en vivo</b></a>
 </p>
 
 > **Astro** para HTML estático rápido (JavaScript solo donde hace falta) · **Reservas** con API de Astro y restricción de exclusión en Postgres contra la doble reserva · **Panel PWA** para que el dueño gestione sus citas desde el móvil.
